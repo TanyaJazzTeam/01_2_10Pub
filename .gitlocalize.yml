@@ -1,1 +1,8 @@
+settings:
+  ignore_escaped_strings: 
+  - "true"
 
+paths:
+  - source: .
+    include:
+    - "01.10.md"
